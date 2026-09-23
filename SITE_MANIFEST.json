@@ -1,0 +1,207 @@
+{
+  "domain": "barrelclutch",
+  "niche": "Haute Leathercraft & Bespoke Frame Clutches",
+  "design_concept": "Warm Sepia & Roasted Timber Atelier",
+  "archetype_id": "sepia_timber",
+  "pages": [
+    "index.php",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "woven_leather_artisan_tote.jpg",
+      "size_kb": 68.55,
+      "md5": "9a54b85bd4d4f88f1094b5730f3cfd50",
+      "description": "Artisanal hand-woven intrecciato leather tote bag in warm saddle tan",
+      "page": "index.php",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "couture_clutch_macro_grain.jpg",
+      "size_kb": 130.44,
+      "md5": "73574ca980b3392fdfa4170e659f126d",
+      "description": "Macro detail of full-grain vegetable tanned leather clutch craftsmanship",
+      "page": "index.php",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "atelier_leather_bag_curation.jpg",
+      "size_kb": 87.57,
+      "md5": "f3e99f5b923529844c22440d2359670f",
+      "description": "Curated atelier leather handbag collection and polished brass hardware",
+      "page": "index.php",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "bespoke_maroquinerie_crafting.jpg",
+      "size_kb": 181.76,
+      "md5": "dcd094cd5c0455da38a661041d3430ad",
+      "description": "Master artisan hand-stitching saddle leather seams on bespoke handbag",
+      "page": "index.php",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "structured_luxury_crossbody.jpg",
+      "size_kb": 54.62,
+      "md5": "0eb392bea561a00ce89bae0656563019",
+      "description": "Structured architectural crossbody bag with braided leather strap accents",
+      "page": "index.php",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "sculptural_evening_hard_case_bag.jpg",
+      "size_kb": 184.78,
+      "md5": "1ab445f31542deaacfbef5b9f1abdf26",
+      "description": "Hard-case evening minaudiere clutch with brushed brass locking clasp",
+      "page": "index.php",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "mercer_atelier_handbag_display.jpg",
+      "size_kb": 75.2,
+      "md5": "c924d1a3cdecb20fc6ed4d0475ab8d43",
+      "description": "Artisanal leather bag showcase at 181 Mercer Street Manhattan boutique",
+      "page": "index.php",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "crimson_woven_leather_clutch.jpg",
+      "size_kb": 98.95,
+      "md5": "16269bc558d1672a2b3f293253bb3d83",
+      "description": "Crimson glazed lambskin braided clutch bag on minimalist pedestal",
+      "page": "index.php",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "caramel_leather_satchel_study.jpg",
+      "size_kb": 97.13,
+      "md5": "b401f640c27dd2f9a89757e7c849201e",
+      "description": "Caramel calfskin leather handbag resting beside architectural lookbook",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "plisse_leather_evening_purse.jpg",
+      "size_kb": 157.4,
+      "md5": "faacab6c7022fb337b39b674bd991ab3",
+      "description": "Plisse pleated and hand-braided leather evening purse with jewel clasp",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "organic_woven_tote_silhouette.jpg",
+      "size_kb": 53.65,
+      "md5": "8b0f1f76b7049e0dc09df3e36bc3c7e0",
+      "description": "Organic woven nappa leather tote bag displaying seamless edge paint",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "boutique_curated_bag_presentation.jpg",
+      "size_kb": 50.47,
+      "md5": "745b4b0d14adbb6a8b2de6bd7896c603",
+      "description": "Luxury bag presentation highlighting geometric woven leather profiles",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "haute_maroquinerie_workshop_bench.jpg",
+      "size_kb": 158.5,
+      "md5": "c2b8a877ba43cfd91a487430d567d466",
+      "description": "Artisan workbench featuring leathercraft awls, edge bevelers, and bag patterns",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "minimalist_leather_shoulder_bag.jpg",
+      "size_kb": 91.24,
+      "md5": "79881f33f3139c8c02ad5b4c1a69e48d",
+      "description": "Minimalist structured shoulder bag with hand-twisted leather cord strap",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "botanical_dyed_leather_bag.jpg",
+      "size_kb": 57.04,
+      "md5": "29040ef1b23d71867c189c928e07456e",
+      "description": "Botanical vegetable-dyed braided handbag with burnished saddle finish",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "vintage_heritage_leather_briefcase.jpg",
+      "size_kb": 146.66,
+      "md5": "6ed9d7ca83b831c988449dace20a29f4",
+      "description": "Heritage leather travel duffel and structured doctor bag construction",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "couture_leather_tote_drape.jpg",
+      "size_kb": 136.6,
+      "md5": "e5accf4a1083c7a455d3296b9b14fa27",
+      "description": "Supple calfskin woven shoulder bag draped on atelier pedestal",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "structured_leather_travel_bag.jpg",
+      "size_kb": 55.51,
+      "md5": "e308eb259141579d01ad551e2d6b5828",
+      "description": "Structured full-grain leather overnight bag with reinforced corner braiding",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "vegetable_tanned_leather_briefcase.jpg",
+      "size_kb": 98.92,
+      "md5": "e07d1b615ea643da384d97222f0bc287",
+      "description": "Vegetable-tanned bridle leather attach\u00e9 and tailored accents",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "creamy_ivory_leather_tote.jpg",
+      "size_kb": 71.1,
+      "md5": "b62fac0234abd1c42186c6418530cf3c",
+      "description": "Creamy ivory textured leather tote bag on minimalist background",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://barrelclutch.com/sitemap.xml",
+    "robots": "https://barrelclutch.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
